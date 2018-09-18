@@ -1,0 +1,9 @@
+C:\Users\Andy\Source\Repos\modbus\ModbusCommander\bin\Debug\ModbusCommander.exe
+C:\Users\Andy\Source\Repos\modbus\ModbusCommander\bin\Debug\ModbusCommander.pdb
+C:\Users\Andy\Source\Repos\modbus\ModbusCommander\obj\Debug\ModbusCommander.csprojAssemblyReference.cache
+C:\Users\Andy\Source\Repos\modbus\ModbusCommander\obj\Debug\ModbusCommander.Properties.Resources.resources
+C:\Users\Andy\Source\Repos\modbus\ModbusCommander\obj\Debug\ModbusCommander.csproj.GenerateResource.cache
+C:\Users\Andy\Source\Repos\modbus\ModbusCommander\obj\Debug\ModbusCommander.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Source\Repos\modbus\ModbusCommander\obj\Debug\ModbusCommander.exe
+C:\Users\Andy\Source\Repos\modbus\ModbusCommander\obj\Debug\ModbusCommander.pdb
+C:\Users\Andy\Source\Repos\modbus\ModbusCommander\obj\Debug\ModbusCommander.MainForm.resources
